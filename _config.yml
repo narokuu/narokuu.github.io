@@ -33,16 +33,16 @@ github:
   username: Narokuu             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: narokuu            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Narokuu
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/narokuu      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/32495004?s=400&u=7955d1782556f3303fdc36ca181cabbd78b43d39&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
