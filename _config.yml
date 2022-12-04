@@ -19,9 +19,9 @@ timezone: America/Eastern
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Naro'd Homelab                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Homelab Notes   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/32495004?s=400&u=7955d1782556f3303fdc36ca181cabbd78b43d39&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
