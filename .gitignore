@@ -8,6 +8,8 @@
 !.commitlintrc.json
 !.versionrc.json
 !.stylelintrc.json
+Gemfile.lock
+
 
 # bundler cache
 _site
