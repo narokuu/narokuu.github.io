@@ -1,8 +1,9 @@
 ---
+layout: post
 title: "Hello Homelab"
 date: 2022-12-11
-categories:
-tags:
+categories: homelab
+tags: homelab
 ---
 
 # Hello Homelab!!
