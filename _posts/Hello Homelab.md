@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello Homelab"
-date: 2022-12-11
+date: 2022-12-11 09:00
 categories: homelab
 tags: homelab
 ---
