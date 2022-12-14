@@ -6,6 +6,6 @@ categories: homelab
 tags: homelab
 ---
 
-# Hello Homelab!!
+## Hello Homelab!!
 
-THis is my first post on my new stie that will be used to docuemnt my homelab journey's Along with a few projects for work. 
+This is my first post on my new stie that will be used to docuemnt my homelab journey's Along with a few projects for work. 
