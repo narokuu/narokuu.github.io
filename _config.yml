@@ -21,7 +21,7 @@ timezone:
 
 title: Narokuu                          # the main title
 
-tagline: Naro's Homelab Notes   # it will display as the sub-title
+tagline: Naro's Homelab Notes & Documentation   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -30,9 +30,9 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://narokuu.github.io'
 
 github:
-  username: arokuu             # change to your github username
+  username: narokuu # change to your github username
 twitter:
-  username: narokuu 
+  username:  
 twitch:           # change to your twitter username
   username: narokuu
 social:
