@@ -6,4 +6,4 @@ order: 4
 
 # About Me!
 
-Hi! My Name Is Naro! I use this platform to document my Homelab. This will be a source for notes, process, code, bugs etc.
+Hi! My Name Is Naro! I use this blog to document my Homelab, projects, and other fun stuff.
